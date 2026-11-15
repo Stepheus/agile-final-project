@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: user-story
 about: template to work on kanban board
 title: ''
 labels: ''
